@@ -1,0 +1,19 @@
+.body{
+    background-color: rgb(79, 170, 206);
+    color: white;
+    font-size: xx-large;
+    border-color: white;
+    border-radius: 10px 15px;
+    display: flex;
+    justify-content: center;
+}   
+div{/* From https://css.glass */
+    background: rgba(40, 187, 215, 0);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(0px);
+    -webkit-backdrop-filter: blur(0px);
+    border: 1px solid rgba(40, 187, 215, 1);
+
+
+}
